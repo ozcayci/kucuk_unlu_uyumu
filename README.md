@@ -15,3 +15,5 @@ output
 
 açıklama : adil küçük ünlü uyumuna uyuyor, özçaycı uymuyor.
 1 adet uyan 1 adet uymayan kelime.
+
+İstediğiniz gibi süsleyerek revize edip kullanabilirsiniz.
