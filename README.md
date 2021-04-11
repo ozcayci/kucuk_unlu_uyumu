@@ -10,7 +10,8 @@ a= k_uyum("Adil Özçaycı")
 output 
 
 ['adil'] ['özçaycı']
+
 1 1
 
-adil küçük ünlü uyumuna uyuyor, özçaycı uymuyor.
+açıklama : adil küçük ünlü uyumuna uyuyor, özçaycı uymuyor.
 1 adet uyan 1 adet uymayan kelime.
